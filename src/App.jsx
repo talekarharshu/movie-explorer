@@ -11,7 +11,8 @@ const App = () => {
 );
   return (
     <div>
-      <h1>Movie Search</h1>
+      <h1>Search Movie Here</h1>
+      <p>Here You an Search Your Favourite Movies</p>
       <SearchInput search={search} setSearch={setSearch} />
       <MovieList Movies={filteredMovies} />
     </div>
