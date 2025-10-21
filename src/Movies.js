@@ -7,4 +7,5 @@ export const movies = [
     { id: 6, title: "Blade Runner" },
     { id: 7, title: "Forrest" },
     { id: 8, title: "The Hangover" },
+    {id: 9, title: "Titanic" },
   ];
